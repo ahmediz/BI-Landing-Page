@@ -1,0 +1,17 @@
+<svg id="instagram" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e95950;
+      }
+    </style>
+  </defs>
+  <g id="Group_346" data-name="Group 346">
+    <g id="Group_345" data-name="Group 345">
+      <path id="Path_571" data-name="Path 571" class="cls-1" d="M23.859,27.864a4,4,0,1,0-4-4A4.01,4.01,0,0,0,23.859,27.864Z" transform="translate(-3.86 -3.86)"/>
+      <path id="Path_572" data-name="Path 572" class="cls-1" d="M34.747,17.816V13.96l-.5,0-3.355.01.013,3.856Z" transform="translate(-6.005 -2.714)"/>
+      <path id="Path_573" data-name="Path 573" class="cls-1" d="M20,0A20,20,0,1,0,40,20,20.023,20.023,0,0,0,20,0ZM31.374,17.666v9.313a4.4,4.4,0,0,1-4.4,4.4H13.022a4.4,4.4,0,0,1-4.4-4.4V13.023a4.4,4.4,0,0,1,4.4-4.4H26.977a4.4,4.4,0,0,1,4.4,4.4Z"/>
+      <path id="Path_574" data-name="Path 574" class="cls-1" d="M28.838,24.263a6.221,6.221,0,1,1-11.985-2.334h-3.4v9.313a2.18,2.18,0,0,0,2.18,2.178H29.593a2.181,2.181,0,0,0,2.18-2.178V21.929h-3.4A6.136,6.136,0,0,1,28.838,24.263Z" transform="translate(-2.616 -4.263)"/>
+    </g>
+  </g>
+</svg>

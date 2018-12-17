@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1abc9c;
+      }
+
+      .cls-2 {
+        fill: #dededf;
+      }
+
+      .cls-3 {
+        fill: #f1f3f7;
+      }
+
+      .cls-4 {
+        fill: #fcfcfd;
+      }
+
+      .cls-5 {
+        fill: #4f5565;
+      }
+
+      .cls-6 {
+        fill: #f0582f;
+      }
+    </style>
+  </defs>
+  <g id="marketplace" transform="translate(-588 -1050)">
+    <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-1" cx="75" cy="75" r="75" transform="translate(588 1050)"/>
+    <g id="_004-cart" data-name="004-cart" transform="translate(596 1010)">
+      <path id="Path_258" data-name="Path 258" class="cls-2" d="M188.622,113.507,172.506,97.314l-16.193,16.193Z" transform="translate(-107.829 -18.101)"/>
+      <path id="Path_259" data-name="Path 259" class="cls-3" d="M290.576,95.406,269.011,73.918,247.523,95.406Z" transform="translate(-178.395)"/>
+      <path id="Path_260" data-name="Path 260" class="cls-4" d="M180.14,194.489l-5.219-2.533L185.2,170.468H116.98v-5.679h77.357Z" transform="translate(-77.399 -70.304)"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" class="cls-5" cx="7.905" cy="7.905" r="7.905" transform="translate(84.323 139.917)"/>
+      <ellipse id="Ellipse_15" data-name="Ellipse 15" class="cls-3" cx="3.914" cy="3.914" rx="3.914" ry="3.914" transform="translate(88.313 143.908)"/>
+      <circle id="Ellipse_16" data-name="Ellipse 16" class="cls-5" cx="7.905" cy="7.905" r="7.905" transform="translate(55.697 139.917)"/>
+      <ellipse id="Ellipse_17" data-name="Ellipse 17" class="cls-3" cx="3.914" cy="3.914" rx="3.914" ry="3.914" transform="translate(59.688 143.908)"/>
+      <g id="Group_178" data-name="Group 178" transform="translate(53.395 103.08)">
+        <path id="Path_261" data-name="Path 261" class="cls-5" d="M219.761,208.444H180.853a2.84,2.84,0,0,1,0-5.679h38.909a2.84,2.84,0,0,1,0,5.679Z" transform="translate(-178.013 -202.765)"/>
+        <path id="Path_262" data-name="Path 262" class="cls-5" d="M227.076,247.1h-33a2.833,2.833,0,0,1-2.84-2.84,2.883,2.883,0,0,1,2.84-2.84h33a2.833,2.833,0,0,1,2.84,2.84A2.883,2.883,0,0,1,227.076,247.1Z" transform="translate(-188.244 -232.67)"/>
+      </g>
+      <path id="Path_263" data-name="Path 263" class="cls-6" d="M19.782,85.107a2.833,2.833,0,0,0-2.84,2.84,2.8,2.8,0,0,0,2.84,2.916h8.212V85.107H19.782Z" transform="translate(0 -8.657)"/>
+      <path id="Path_264" data-name="Path 264" class="cls-4" d="M138.993,128.435H91.259L71.536,86.456a2.882,2.882,0,0,0-2.609-1.688H65.78V90.6h1.3l19.723,41.979a2.882,2.882,0,0,0,2.609,1.688h49.576a3.3,3.3,0,0,1,0,6.6H89.8a2.84,2.84,0,0,0,0,5.679h49.193a9.056,9.056,0,0,0,0-18.112Z" transform="translate(-37.787 -8.394)"/>
+    </g>
+  </g>
+</svg>

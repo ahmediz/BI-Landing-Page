@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2267 1898">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.006" y1="0.438" x2="0.46" y2="0.994" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2193b0"/>
+      <stop offset="1" stop-color="#6dd5ed"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="Background" class="cls-1" cx="1133.5" cy="949" rx="1133.5" ry="949"/>
+</svg>
